@@ -33,7 +33,7 @@ flutter pub get
 flutter run
 ```
 
-4.Usage
+4. Usage
 Open the app on your Android device or emulator.
 Use the add button to create new tasks, providing a title and optional description.
 Tap on a task to mark it as completed or to edit/delete it.
